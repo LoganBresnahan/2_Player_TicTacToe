@@ -181,19 +181,12 @@ def win_display
 	puts ""
 end
 
-#def game_over
-	#win_display
-	#puts "Looks like it was a tie."
-  #exit
-#end
 
 def terminate
 	exit
 end
 
 end
-
-#DO I NEED PLAY OR SWITCH_PLAYERS? CAN I CONDENSE IT? put game methods in play and switch_players in selection. 07/24/2015
 
 
 players = ["Ham Sandwich", "Carl"]
